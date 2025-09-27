@@ -1,9 +1,9 @@
 # HackornCTF-2025 Writeups Repository
 
 
-I secured 12th place in HackornCTF-2025. The top 20 participants qualified for Bsides Noida. Below is the screenshot as proof:
+I secured 10th place in HackornCTF-2025. The top 20 participants qualified for Bsides Noida. Below is the screenshot as proof:
 
-<img width="1299" height="336" alt="Screenshot 2025-09-27 224414" src="https://github.com/user-attachments/assets/c8d001d8-b65c-4d34-b0a3-ef2e49b616c7" />
+<img width="1327" height="328" alt="image" src="https://github.com/user-attachments/assets/b51fa746-3d19-45f3-9bf6-e94ca576058e" />
 
 
 
